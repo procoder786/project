@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "648538596338",
+    "firebase_url": "https://tutions-ffece.firebaseio.com",
+    "project_id": "tutions-ffece",
+    "storage_bucket": "tutions-ffece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648538596338:android:edd944ab4e6247fab2816b",
+        "android_client_info": {
+          "package_name": "com.amanaryan.firebase_error_cntrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648538596338-4okl4kcd4f8qbj4d21qfjffmng2t45jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amanaryan.firebase_error_cntrl",
+            "certificate_hash": "2631a73b21092ffec14f7ea1d1484eb6d5d60df2"
+          }
+        },
+        {
+          "client_id": "648538596338-4u9vvklti8ultbitl8q1g416sgmj9jo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYROuMIvbgaNZRdKmslgoIy2xTd3BrUjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648538596338-4u9vvklti8ultbitl8q1g416sgmj9jo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648538596338:android:d0759ae628b2f63ab2816b",
+        "android_client_info": {
+          "package_name": "com.amanaryan.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648538596338-53t41m6aqci6r0u51ddi81s65dpb8vus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amanaryan.firebase_test",
+            "certificate_hash": "2631a73b21092ffec14f7ea1d1484eb6d5d60df2"
+          }
+        },
+        {
+          "client_id": "648538596338-4u9vvklti8ultbitl8q1g416sgmj9jo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYROuMIvbgaNZRdKmslgoIy2xTd3BrUjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648538596338-4u9vvklti8ultbitl8q1g416sgmj9jo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648538596338:android:270652e2d58072e3b2816b",
+        "android_client_info": {
+          "package_name": "com.amanaryan.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648538596338-l6hmlrihvfr35hgppcegjompcuhpfvo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amanaryan.test",
+            "certificate_hash": "2631a73b21092ffec14f7ea1d1484eb6d5d60df2"
+          }
+        },
+        {
+          "client_id": "648538596338-4u9vvklti8ultbitl8q1g416sgmj9jo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYROuMIvbgaNZRdKmslgoIy2xTd3BrUjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648538596338-4u9vvklti8ultbitl8q1g416sgmj9jo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648538596338:android:2fc7ea37af15e574b2816b",
+        "android_client_info": {
+          "package_name": "com.amanaryan.tutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648538596338-h8kaekqh3j80hunjdtmovcp8viee1ijh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amanaryan.tutions",
+            "certificate_hash": "2631a73b21092ffec14f7ea1d1484eb6d5d60df2"
+          }
+        },
+        {
+          "client_id": "648538596338-4u9vvklti8ultbitl8q1g416sgmj9jo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYROuMIvbgaNZRdKmslgoIy2xTd3BrUjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648538596338-4u9vvklti8ultbitl8q1g416sgmj9jo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
